@@ -1,0 +1,34 @@
+<meta>
+    
+    <info author = "Laxante" version = "1.0" name = "painel de time exclusivin" />
+    
+    <!-- Arquivos -->
+    
+    <script src = 'Laxante_G.lua' type = 'shared' cache = 'false'/>
+    <script src = 'nui/source/Laxante_U.lua' type = 'client' cache = 'false'/>    
+    <script src = 'nui/source/Laxante_C.lua' type = 'client' cache = 'false'/>  
+    <script src = 'nui/source/Laxante_S.lua' type = 'server' /> 
+    
+    <!-- Fonts-->
+    
+    <file src = "nui/fonts/Montserrat-Itali-Bold.ttf" cache = "false" />
+    <file src = "nui/fonts/Montserrat-Bold.ttf" cache = "false" />
+    <file src = "nui/fonts/RobotoCondensed-Bold.ttf" cache = "false" />
+    
+    <!-- Versão -->
+
+    <min_mta_version server = "1.5.8-9.20979" client="1.5.8-9.20979"></min_mta_version>
+
+    <!-- Imagens -->
+
+    <file src = "nui/interface/background.png" cache = "false" />
+    <file src = "nui/interface/close_button.png" cache = "false" />
+    <file src = "nui/interface/logo.png" cache = "false" />
+    <file src = "nui/interface/button_pick.png" cache = "false" />
+
+    <!-- Exports -->
+    
+
+    
+
+</meta>
