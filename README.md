@@ -25,9 +25,3 @@ This script adds a skin selection panel for the "Tatics" game mode in MTA: San A
 
 - MTA: San Andreas 1.5.9 or higher.
 - Game mode "Tatics" must be installed on the server.
-
-## Installation
-
-1. Download the repository or clone the repository using:
-```bash
-git clone https://github.com/your-username/repo.git
